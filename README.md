@@ -1,6 +1,8 @@
 How to interview a UI/UX Designer
 =================================
 
+Version: Thursday August 23rd, 2012
+
 If you're like me, at some point in time you'll need to interview a designer for a position at your company. Designers come in all sorts of flavours - visual, interface, mobile, graphic, or print designers (and also frontend engineers who have a design background.) Knowing what to ask in the interview is pretty difficult, and coming up with great design exercises can be challenging.
 
 Here are a few tips I've put together that might help. This document contains many questions, and if your interview is only 45 minutes, you won't be able to get through everything. Pick and choose what questions you think are suitable for the candidate and their role at your company.
