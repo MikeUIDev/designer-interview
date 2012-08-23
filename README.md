@@ -9,7 +9,7 @@ Before the interview, have a look at their portfolio and choose an interesting p
 - At a first glance, can you quickly understand what you're meant to do?
 - Is the copy they've chosen clear and concise?
 
-# A bit of background
+## A bit of background
 
 Ask them to tell you about their background - this will ease in the interview before we get to the hard questions.
 
@@ -18,7 +18,7 @@ Ask them to tell you about their background - this will ease in the interview be
 - What type of design do you find most challenging? 
 - What skill would you like to improve the most?
 
-# Process
+## Process
 
 Remember we chose an interesting project from their portfolio? Make sure you're familiar with it, and then ask them some open ended questions to understand how they approached this project:
 
@@ -27,7 +27,7 @@ Remember we chose an interesting project from their portfolio? Make sure you're 
 - How many concepts did you try?
 - Who do you bounce ideas off?
 
-# The design exercise
+## The design exercise
 
 Lastly, have an exercise prepared to run through together. This will let you see how they approach new projects. By now you should have a fairly decent idea of what his/her weakness could be - so pick an exercise that capitilizes on that. For example, if their portfolio is mainly great visual design of static web pages, ask them to design the interface for a mobile app.
 
@@ -39,7 +39,7 @@ During the exercise, look for the following things, a sign of a good designer:
 - Clear understanding of design paradigms for the platform chosen (ie, mobile, desktop, etc)
 - Discussion about how the exercise can spin off into a product, cool new features to add, that sort of thing
 
-## Example exercises
+### Example exercises
 
 Here are some example exercises I've come up with that might help:
 
