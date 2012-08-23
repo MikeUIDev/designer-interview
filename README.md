@@ -1,12 +1,16 @@
 Interviewing a designer - a checklist...
 ========================================
 
+If you're like me, at some point in time you'll need to interview a designer for a position at your company. Designers come in all sorts of flavours - visual, interface, mobile, graphic, or print designers and also frontend engineers who have a design background. Knowing what to ask in the interview is pretty difficult, and coming up with great design exercises can be very challenging.
+
+Here are a few tips that I've put together that might help.
+
 Before the interview, have a look at their portfolio and choose an interesting project (we'll use this later).
 
 - Do you like their visual design?
 - Is it modern, and relevant for the subject matter?
+- Does it follow basic design principles (symmetry, use of whitespace, affordance, etc)
 - Does it have good information heirachy?
-- At a first glance, can you quickly understand what you're meant to do?
 - Is the copy they've chosen clear and concise?
 
 ## A bit of background
@@ -20,7 +24,7 @@ Ask them to tell you about their background - this will ease in the interview be
 
 ## Process
 
-Remember we chose an interesting project from their portfolio? Make sure you're familiar with it, and then ask them some open ended questions to understand how they approached this project:
+Remember we chose an interesting project from their portfolio? Make sure you're familiar with it, and then ask them some open ended questions to understand how they approached this project.
 
 - What problem were you given to solve?
 - How did you approach solving it?
@@ -29,48 +33,46 @@ Remember we chose an interesting project from their portfolio? Make sure you're 
 
 ## The design exercise
 
-Lastly, have an exercise prepared to run through together. This will let you see how they approach new projects. By now you should have a fairly decent idea of what his/her weakness could be - so pick an exercise that capitilizes on that. For example, if their portfolio is mainly great visual design of static web pages, ask them to design the interface for a mobile app.
+Lastly, have an exercise prepared to run through together. This will let you see how they approach new projects. By now you should have a fairly decent idea of what his/her weakness could be - so pick an exercise that capitilizes on that. For example, if their portfolio consists of mainly visual design for static web pages, ask them to design the interface for a mobile app.
 
-During the exercise, look for the following things, a sign of a good designer:
+During the exercise look for the following things as a sign of a good designer:
 
-- A lot of questions early on to get the full picture
-- A bullet pointed list of features (functional spec, or "what the design needs to solve")
+- A lot of questions early on so no assumptions are made about the brief
+- A list of features (functional spec, or "what the design needs to solve")
 - Clear understanding of basic design principles
 - Clear understanding of design paradigms for the platform chosen (ie, mobile, desktop, etc)
-- Discussion about how the exercise can spin off into a product, cool new features to add, that sort of thing
+- Discussion about how the exercise could spin off into a product, cool new features to add, etc.
 
 ### Example exercises
 
 Here are some example exercises I've come up with that might help:
 
-1. A challenging user sign up flow (interaction design)
+#### 1. A challenging user sign up flow (interaction design)
 
-We're building a furniture recommendation web app where we need to know the users favourite color before they actually get to the main application. During the sign up flow, how can we help the user find their favourite colour?
+We're building a furniture recommendation web app where we need to know the users favourite colour. During the sign up flow, how can we help the user find their favourite colour?
 
 Good things to look for:
 
-- Many people won't know what their favourite colour is, does the designer try to create a small game or challenge for the user to help them narrow down their choice?
+- Users won't automatically know what their favourite colour is. Does the designer try to create a small game or challenge to help narrow down their choice?
 - Is the solution short enough to still be part of the sign up flow? Remember there will be extra steps that the user needs to complete before or after this step.
 - Does the designer suggest further interesting ideas for the furniture recommendation service? Do they exploit this by including furniture in the colour picking step?
 
-
-2. A mobile application for cruise ship crew management (mobile design)
+#### 2. A mobile app for cruise ship crews (mobile design)
 
 Ask the designer to sketch out a few screens for a mobile app you're thinking of building. Cruise ships have crews of hundreds and can be away from port for days at a time. Ask the designer to flesh out some wireframes for an application that can:
 
-- Provide a list of all passengers for the crew member to look up
-- Allow the crew member to mark passengers as special (ie, VIP, or causing trouble)
-- Show some statistics about the ship, such as when it'll dock next, the weight, speed it's traveling, etc.
-
-Good things to look for:
-
-- Do they group things in an intelligent and obvious way?
+1. Provide a list of all passengers for the crew member to look up
+2. Allow the crew member to mark passengers as special (ie, VIP, or causing trouble)
+3. Show some statistics about the ship, such as when it'll dock next, the weight, speed it's traveling, etc.
 
 
-3. A guitar tuner with only one button (product design with a constraint)
+## Further reading
 
+Google Ventures Designer Braden Kowitz talks a bit about how he interviews designers in this article:
+http://www.designstaff.org/articles/how-to-interview-a-designer-2011-12-29.html
 
+Jason Putorti from Mint has a good Quora answer on interviewing a designer:
+http://www.quora.com/Jason-Putorti/Posts/How-to-Interview-a-Designer
 
-
-
-
+And of course Smashing Magazine has an article on interviewing a Graphic Designer
+http://uxdesign.smashingmagazine.com/2012/02/16/how-to-recruit-ux-designer/ 
