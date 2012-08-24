@@ -108,3 +108,6 @@ http://www.quora.com/Jason-Putorti/Posts/How-to-Interview-a-Designer
 
 And of course Smashing Magazine has an article on recruiting a UI/UX Designer:
 http://uxdesign.smashingmagazine.com/2012/02/16/how-to-recruit-ux-designer/ 
+
+There's also a very good similar guide for Frontend Engineers:
+https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
